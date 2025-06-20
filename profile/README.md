@@ -1,15 +1,45 @@
-<a href="https://nuvibit.com/"><img src="https://raw.githubusercontent.com/nuvibit-terraform-collection/.github/main/profile/banner.png" alt="Nuvibit" width="1220"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nuvibit.com/images/logo/logo-nuvibit-banner.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://nuvibit.com/images/logo/logo-nuvibit-banner-dark.png">
+  <img alt="Fallback image description" src="[Nuvibit Logo](https://nuvibit.com/images/logo/logo-nuvibit-banner.png)" width="400">
+</picture>
+<br/>
 
-##  Why Nuvibit? 🤔
 
-✅ **Simplicity**: Streamline your cloud infrastructure with reusable, customizable, and easy-to-use Terraform / OpenTofu modules.\
-✅ **Security**: NTC modules are designed with compliance and security in mind, ensuring your AWS environment is always following best practices.\
-✅ **Innovation**: As AWS evolves, so do we. Nuvibit continuously enhances our modules to support new services and features.
+# 🏛️ Leading Specialist in Sovereign AWS Platforms
+
+**🫕 Built in Switzerland, Ready for Europe** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🏅 AWS Advanced Partner** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🛡️AWS Government Competency**
+
+Nuvibit empowers organizations with **sovereign-by-design** cloud platforms, built specifically for regulatory compliance and data sovereignty. 
 
 
-## 🚀 Let’s Get Started:
+##  🎯 What Makes Nuvibit Different?
 
-Explore our [Getting Started Guide](https://docs.nuvibit.com/getting-started) to begin using NTC today.
+🏛️ **Sovereign-by-Design**: Cloud platforms built for data sovereignty and regulatory compliance\
+🧩 **Modular Infrastructure-as-Code**: Built with the [Nuvibit Terraform Collection (NTC)](https://nuvibit.com/nuvibit-terraform-collection) – secure, composable, auditable\
+⚡ **Accelerated Cloud Adoption**: Pre-audited blueprints and secure-by-default modules\
+🏅 **Trusted by Governments**: Certified **AWS Advanced Partner** with **AWS Government Competency**\
+☁️ **European Sovereign Cloud**: Compliant with EU data protection laws and ready for regulated industries
+
+
+## 🚀 Get Started with Sovereign AWS:
+
+**Ready to build compliant, secure cloud infrastructure?**
+
+- **Explore NTC**: Start with our [Getting Started Guide](https://docs.nuvibit.com/getting-started)
+- **Government & Regulated Industries**: [Contact our specialists](https://nuvibit.com/contact)
+- **Documentation**: Browse the full [NTC Documentation](https://docs.nuvibit.com)
+
+
+## 🏛️ Trusted by Organizations Across Europe
+
+*"Nuvibit's sovereign approach gives us the confidence that our critical infrastructure meets the highest compliance standards."*
+
+**Use Cases:**
+- **Government Agencies**: Secure, compliant cloud platforms for public sector
+- **Financial Services**: PCI DSS compliant infrastructure with data sovereignty  
+- **Healthcare**: Regulated cloud environments for sensitive data
+- **Critical Infrastructure**: High-security platforms for essential services
 
 
 ## 💬 Join the Discussion:
@@ -21,20 +51,18 @@ We welcome feedback, suggestions, and collaboration. You can:
 Feel free to ask questions, share your experience, and collaborate with others!
 
 
-## 🌍 Stay Up-to-Date:
+## 📞 Connect with Our Sovereign Cloud Specialists:
 
-You can stay updated on all things Nuvibit through our [documentation](https://docs.nuvibit.com) and our [releases page](https://docs.nuvibit.com/ntc-releases). 
-We regularly add new modules and features, and this is the best way to keep track.
+**Ready to discuss your compliance requirements?**
 
-
-## 💬 Contact Us:
-
-For any questions, issues, or feedback, feel free to reach out to us:
-
-- **Email**: [hello@nuvibit.com](mailto:hello@nuvibit.com)
-- **GitHub Discussions**: [Join the conversation](https://github.com/orgs/nuvibit-terraform-collection/discussions)
+- **Government & Regulated Industries**: [Contact our specialists](https://nuvibit.com/contact)
+- **Community**: [Join GitHub Discussions](https://github.com/orgs/nuvibit-terraform-collection/discussions)
+- **Documentation**: [docs.nuvibit.com](https://docs.nuvibit.com)
+- **Release Updates**: [NTC Releases](https://docs.nuvibit.com/ntc-releases)
 
 
-## 🚀 Ready to Get Started with NTC?
+## 🏅 **AWS Advanced Partner | Government Competency Certified**
 
-Explore the official Nuvibit Terraform Collection (NTC) documentation at [docs.nuvibit.com](https://docs.nuvibit.com)
+*Building sovereign cloud platforms for the next generation of European digital infrastructure.*
+
+**[Start Your Sovereign AWS Journey →](https://nuvibit.com/contact)**
