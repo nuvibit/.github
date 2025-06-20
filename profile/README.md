@@ -1,12 +1,14 @@
 <a href="https://nuvibit.com/"><img src="https://raw.githubusercontent.com/nuvibit-terraform-collection/.github/main/profile/banner.png" alt="Nuvibit" width="1220"></a>
 
 ##  Why Nuvibit? 🤔
+
 ✅ **Simplicity**: Streamline your cloud infrastructure with reusable, customizable, and easy-to-use Terraform / OpenTofu modules.\
-✅ **Security**: NTC modules are designed with compliance and security in mind—ensuring your AWS environment is always following best practices.\
-✅ **Innovation**: As AWS evolves, so do we. Nuvibit continuously enhances our modules to support new services and features.\
+✅ **Security**: NTC modules are designed with compliance and security in mind, ensuring your AWS environment is always following best practices.\
+✅ **Innovation**: As AWS evolves, so do we. Nuvibit continuously enhances our modules to support new services and features.
 
 
 ## 🚀 Let’s Get Started:
+
 Explore our [Getting Started Guide](https://docs.nuvibit.com/getting-started) to begin using NTC today.
 
 
